@@ -1,0 +1,26 @@
+1.   1369 - Answering Queries
+2.   1419 - Necklace
+3.   1179 - Josephus Problem
+4.   1082 - Array Queries
+5.   1297 - Largest Box
+6.   1098 - A New Function
+7.   1275 - Internet Service Providers
+8.   1112 - Curious Robin Hood
+9.   1093 - Ghajini
+10.   1083 - Histogram
+11.   1085 - All Possible Increasing Subsequences
+12.   1006 - Hex-a-bonacci
+13.   1087 - Diablo
+14.   1164 - Horrible Queries
+15.   1164 - Horrible Queries
+16.   1224 - DNA Prefix
+17.   1271 - Better Tour
+18.   1047 - Neighbor House
+19.   1300 - Odd Personality
+20.   1063 - Ant Hills
+21.   1308 - Ant Network
+22.   1291 - Real Life Traffic
+23.   1164 - Horrible Queries
+24.   1148 - Mad Counting
+25.   1164 - Horrible Queries
+26.   1319 - Monkey Tradition
